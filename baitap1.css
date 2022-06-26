@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@300&family=Rubik+Moonrocks&family=Source+Sans+Pro&display=swap');
+body{display: flex;  flex-direction: column; margin:auto;width: 50%;font-family: 'Roboto', sans-serif;}
+.image{margin-left: 20px;}
+.button{width: 150px;height: 50px;background-color: #50bdc9;color: white;border: none;}
+.article__content{color: gray;font-size:larger;}
