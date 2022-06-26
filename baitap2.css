@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Rubik+Moonrocks&family=Source+Sans+Pro&display=swap');
+body{background-color: #cfecfc;}
+.article{display:flex;flex-direction: column; margin:auto;}
+.article__heading{color: lightseagreen;font-style: bold;font-family: 'Lato', sans-serif;}
+.article__name{color: lightseagreen;font-style: bold;font-family: 'Lato', sans-serif;}
+.article__image{width: 200px;height: 200px;border-radius: 50%;}
+.border{width: 500px;border-bottom: dashed; border-width: 5px;color: #605f61;}
+.head{color: lightseagreen;font-style: bold;font-family: 'Lato', sans-serif;font-weight: bold;font-size: large;}
+i{color: yellow;}
+ul{font-family: 'Source Sans Pro', sans-serif;font-weight: bold; font-size: large;}
